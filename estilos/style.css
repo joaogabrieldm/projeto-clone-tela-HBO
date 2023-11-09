@@ -42,7 +42,7 @@ body{
     display: flex;
     justify-content: space-between;
     padding: 10px 20px;
-    background-color: black;
+    background-color: rgba(11, 3, 19, 0.904);
     font-family: "Gilroy EB";
 }
 
